@@ -1,0 +1,161 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "خواتم",
+        "imageKey": "rings"
+      },
+      {
+        "id": 2,
+        "name": "أساور",
+        "imageKey": "bracelets"
+      },
+      {
+        "id": 3,
+        "name": "قلادات",
+       "imageKey": "necklaces"
+      },
+      {
+        "id": 4,
+        "name": "أقراط",
+"imageKey": "earrings"      },
+      {
+        "id": 5,
+        "name": "مجموعات كاملة",
+"imageKey": "sets"      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "خاتم سوليتير",
+        "categoryId": 1,
+        "price": 1700,
+        "oldPrice": 2000,
+        "description": "خاتم خطوبة فاخر من سوليتير، يتميز بماسة واحدة بقطع بريانت",
+        "details": "خاتم مصنوع يدوياً من الذهب الخالص عيار 18، مرصع بالألماس الطبيعي",
+        "imageKey": "solitaire",
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": true
+      },
+      {
+        "id": 2,
+        "name": "خاتم هالو",
+        "categoryId": 1,
+        "price": 2200,
+        "oldPrice": 2500,
+        "description": "خاتم ذهبي فاخر مرصع بالألماس على شكل تاج",
+        "details": "خاتم مصنوع من الذهب الأصفر عيار 18، مرصع بالألماس الطبيعي بتصميم تاج ملكي",
+        "image": "./img/products/_A glamorous halo engagement ring with a large, round-cut diamond encircled by a sparkling halo of smaller diamonds. The band is made of rose gold and encrusted with additional diamonds, adding extra brilliance. The.jpg",
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": false
+      },
+      {
+        "id": 3,
+        "name": "خاتم ثلاث أحجار",
+        "categoryId": 1,
+        "price": 1500,
+        "oldPrice": 1800,
+        "description": "خاتم زفاف كلاسيكي من الذهب الأبيض",
+        "details": "خاتم زفاف أنيق من الذهب الأبيض عيار 18، تصميم كلاسيكي خالد",
+        "image": "./img/products/_A stunning three-stone engagement ring symbolizing past, present, and future love. The ring features a trio of brilliant-cut diamonds set on a yellow gold band, with intricate engravings along the sides. The settin.jpg",
+        "inStock": true,
+        "isNew": false,
+        "isFeatured": true
+      },
+       
+      
+      {
+        "id": 4,
+        "name": "سوار لؤلؤ فاخر",
+        "categoryId": 2,
+        "price": 1500,
+        "oldPrice": 1800,
+        "description": "سوار مميز من اللؤلؤ الطبيعي مع لمسات من الذهب الأبيض",
+        "details": "سوار فاخر مصنوع من اللؤلؤ الطبيعي الأبيض، مع وصلات من الذهب الأبيض",
+        "image": "./img/products/_A luxurious pearl bracelet featuring natural white pearls connected by delicate 18K white gold links. The bracelet is elegantly displayed on a soft velvet cushion with diffused lighting, creating a refined and  (1).jpg",
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": true
+      },
+      {
+        "id": 5,
+        "name": "سوار الماس التنس",
+        "categoryId": 2,
+        "price": 3000,
+        "oldPrice": 3500,
+        "description": "سوار تنس أنيق مرصع بالألماس",
+        "details": "سوار تنس كلاسيكي من الذهب الأبيض مرصع بالألماس النقي",
+        "image": "./img/products/_A dazzling diamond tennis bracelet made of 18K yellow gold, featuring a continuous row of high-quality round-cut diamonds. The bracelet is displayed elegantly on a reflective glass surface, with soft yet focused li.jpg",
+        "inStock": true,
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": 6,
+        "name": "قلادة الماس الكلاسيكية",
+        "categoryId": 3,
+        "price": 2000,
+        "oldPrice": 2500,
+        "description": "قلادة ألماس راقية بتصميم عصري",
+        "details": "قلادة مرصعة بالألماس الطبيعي، إطار من الذهب الأبيض عيار 18",
+        "image": "./img/products/_A sophisticated and modern diamond necklace featuring a delicate design with high-quality natural diamonds set in an 18K white gold frame. The necklace showcases a contemporary yet timeless aesthetic, with intricat.jpg",
+        "inStock": true,
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": 7,
+        "name": "قلادة اللؤلؤ الملكية",
+        "categoryId": 3,
+        "price": 2500,
+        "oldPrice": 3000,
+        "description": "قلادة لؤلؤ فاخرة بتصميم ملكي",
+        "details": "قلادة من اللؤلؤ الطبيعي مع تفاصيل من الذهب والألماس",
+        "image": "./img/products/_A luxurious royal pearl necklace featuring perfectly round natural pearls, elegantly strung together with intricate 18K gold and diamond accents. The pearls have a radiant luster, reflecting elegance and sophistica.jpg",
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": true
+      },
+      {
+        "id": 8,
+        "name": "أقراط الماس المتدلية",
+        "categoryId": 4,
+        "price": 1800,
+        "oldPrice": 2200,
+        "description": "أقراط متدلية مرصعة بالألماس",
+        "details": "أقراط ذهبية متدلية مرصعة بالألماس النقي، تصميم عصري وأنيق",
+        "image": "./img/products/_A pair of luxurious dangling diamond earrings, elegantly crafted from 18K gold and adorned with brilliant-cut natural diamonds. The design features a modern yet timeless aesthetic, with diamonds cascading gracefull.jpg",
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": true
+      },
+      {
+        "id": 9,
+        "name": "أقراط اللؤلؤ الكلاسيكية",
+        "categoryId": 4,
+        "price": 1200,
+        "oldPrice": 1500,
+        "description": "أقراط لؤلؤ كلاسيكية أنيقة",
+        "details": "أقراط من اللؤلؤ الطبيعي مع تثبيت ذهبي عيار 18",
+        "image": "./img/products/_A pair of elegant classic pearl earrings, featuring perfectly round natural pearls set in 18K gold. The design embodies timeless sophistication, with a smooth and lustrous pearl delicately mounted on a refined gold.jpg",
+        "inStock": true,
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": 10,
+        "name": "طقم الزفاف الملكي",
+        "categoryId": 5,
+        "price": 5000,
+        "oldPrice": 6000,
+        "description": "طقم زفاف كامل من الألماس والذهب الأبيض",
+        "details": "طقم زفاف فاخر يشمل قلادة وأقراط وخاتم، مرصع بالألماس النقي",
+        "image": "./img/products/_A luxurious royal wedding set, featuring a complete collection of a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with pure, high-quality natural diamonds. The design of each piece is .jpg",
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": true
+      }
+    ]
+  }
