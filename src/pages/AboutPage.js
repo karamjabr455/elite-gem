@@ -5,10 +5,10 @@ import { GiDiamondRing, GiStarsStack } from 'react-icons/gi';
 import { RiCustomerService2Fill } from 'react-icons/ri';
 
 // استيراد الصور
-import heroBanner from '../img/about/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces sh (1).jpg';
-import storeImage from '../img/about/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces sh (2).jpg';
-import craftmanship from '../img/about/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces sh (3).jpg';
-import quality from '../img/about/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces should.jpg';
+import heroBanner from '/img/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces sh (1).jpg';
+import storeImage from '/img/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces sh (2).jpg';
+import craftmanship from '/img/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces sh (3).jpg';
+import quality from '/img/_A high-end jewelry store banner showcasing a luxurious wedding jewelry set, including a necklace, earrings, and a ring, all crafted from 18K white gold and adorned with sparkling diamonds. The jewelry pieces should.jpg';
 
 const AboutPage = () => {
   return (
